@@ -10,7 +10,7 @@ import config
 from bs4 import BeautifulSoup
 import requests
 from gnews import GNews
-
+#
 # query = input("Enter your query - ")
 query = "Киев Свет"
 limit = 50

@@ -2,7 +2,7 @@ import py_eureka_client.eureka_client as eureka_client
 from flask import Flask, request
 from flask import jsonify
 
-from parser_p import *
+from parser_news_methods import *
 
 rest_port = 8050
 
